@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>createx</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-15T19:10:25.062Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>createx</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初涉搜索领域，我做了哪些事</title>
+    <link href="http://yoursite.com/2018/09/14/%E5%88%9D%E6%B6%89%E6%90%9C%E7%B4%A2%E9%A2%86%E5%9F%9F%EF%BC%8C%E6%88%91%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BA%8B/"/>
+    <id>http://yoursite.com/2018/09/14/初涉搜索领域，我做了哪些事/</id>
+    <published>2018-09-14T15:09:36.000Z</published>
+    <updated>2018-09-15T19:10:25.062Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2018/09/14/初涉搜索领域，我做了哪些事/IMG_2317.jpg"><a id="more"></a><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>两个月前，我刚从法学院毕业，便义无反顾的进入了法律科技行业，希望能亲自参与技术推动法律行业变革的进程。我自己对工程很感兴趣，所以在经过几个月的实习以后，选择了偏逻辑的搜索优化作为职业生涯的第一步。</p><p>从一名文科生到搜索产品经理，我的职业选择跨度显然很大。这种冒险的跨越在工作开展的前期给我自己带来了很大的压力。但是，所幸有搜索产品高人和指点和同事的协助，总算在黑暗中摸索出一条优化搜索功能的道路，把握了工作的节奏。</p><p>回顾过去的时光，我将自己入门时做过的事情记录下来，作为自己的纪念，也希望能帮助其他想要入门这个岗位的朋友。</p><h2 id="主要工作"><a href="#主要工作" class="headerlink" title="主要工作"></a>主要工作</h2><h3 id="阅读书目推荐"><a href="#阅读书目推荐" class="headerlink" title="阅读书目推荐"></a>阅读书目推荐</h3><h4 id="《SSA：用户搜索行为与搜索心理》"><a href="#《SSA：用户搜索行为与搜索心理》" class="headerlink" title="《SSA：用户搜索行为与搜索心理》"></a>《SSA：用户搜索行为与搜索心理》</h4><p>这本书是我的搜索启蒙书，我依靠这一本书掌握了基本的用户搜索行为优化的分析框架。我推荐重点阅读“搜索引擎性能测试“和“失败分析”章节，这样有助于快速开展工作。</p><h4 id="《这就是搜索引擎：核心技术详解》"><a href="#《这就是搜索引擎：核心技术详解》" class="headerlink" title="《这就是搜索引擎：核心技术详解》"></a>《这就是搜索引擎：核心技术详解》</h4><p>相比于前一本书，该书的内容更偏向技术，非技术出身的人可能会有阅读障碍。并且对于垂直领域搜索引擎来说，该书的部分章节看似无用，例如“PageRank分析”和“反作弊”。但是我建议不论出身，凡是想要入门的朋友都应该浏览一遍该书，即使是前述的两个章节，其背后的思想还是可以运用在搜索结果排序上。</p><p>当然，该书的重点是知道基本的搜索原理，特别是要理解索引、倒排列表等基础概念，这样才有助于和开发讨论问题。</p><h3 id="了解搜索框架"><a href="#了解搜索框架" class="headerlink" title="了解搜索框架"></a>了解搜索框架</h3><p>我们应该与技术人员的交流，知道当前的搜索是基于什么框架。以我的工作为例，我们目前的使用的是非常流行的ES框架。因此有必要了解这个框架的基本情况，我推荐的方式是去浏览框架的官方文档。</p><p>这项工作的意义是可以获得更加贴近业务的参考手册，遇到不懂得技术概念可以及时获得最权威的解释。</p><h3 id="与用户加强联系"><a href="#与用户加强联系" class="headerlink" title="与用户加强联系"></a>与用户加强联系</h3><p>主要通过两种途径：</p><blockquote><p>1.请求客服部门帮助查找关于搜索排序的问题；<br>2.直接与用户联系，收集用户的痛点。</p></blockquote><h3 id="自己梳理搜索框架"><a href="#自己梳理搜索框架" class="headerlink" title="自己梳理搜索框架"></a>自己梳理搜索框架</h3><p>自己可以在开发和有经验的搜索产品经理的帮助下，自己梳理当前搜索功能结构图和搜索逻辑图。前者侧重于有哪些功能以及各种功能的作用，后侧侧重于用户的查询在前端和后端都被如何处理，尤其是搜索系统提供精确检索和模糊检索等复杂功能时。</p><p>做这项工作时，可以借助Processon、Viosio等线上工具。</p><h3 id="阅读wiki"><a href="#阅读wiki" class="headerlink" title="阅读wiki"></a>阅读wiki</h3><p>这是我比较后悔没做好的地方，我们的工作很多时候都是基于前任的成果，所以虽然自己在学习新东西，但是不能忽视过去搜索功能的wiki。</p><h3 id="制作搜索性能评价的自动测试工具"><a href="#制作搜索性能评价的自动测试工具" class="headerlink" title="制作搜索性能评价的自动测试工具"></a>制作搜索性能评价的自动测试工具</h3><p>在阅读完《SSA：用户搜索心理与搜索行为分析》后，对如何评价搜索性能应该有一套基本的方法论。可以自己制定好规则，开发一个测试工具（可能就是一个Python脚本），定期或者在每次功能优化以后测试。</p><p>这项工作的意义在于，搜索效果的评价是一个很主观的工作。因此有必要借助客观的度量标准，评价自己工作的成效。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/09/14/初涉搜索领域，我做了哪些事/IMG_2317.jpg&quot;&gt;
+    
+    </summary>
+    
+    
+      <category term="搜索" scheme="http://yoursite.com/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+      <category term="产品经理" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+      <category term="法律科技" scheme="http://yoursite.com/tags/%E6%B3%95%E5%BE%8B%E7%A7%91%E6%8A%80/"/>
+    
+      <category term="个人知识管理" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新记录</title>
+    <link href="http://yoursite.com/2018/09/09/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/"/>
+    <id>http://yoursite.com/2018/09/09/更新记录/</id>
+    <published>2018-09-09T15:27:35.000Z</published>
+    <updated>2018-09-15T19:19:12.660Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2018/09/09/更新记录/IMG_3867.jpg"><a id="more"></a><h2 id="1-0-0-2018-09-09"><a href="#1-0-0-2018-09-09" class="headerlink" title="[1.0.0] - 2018-09-09"></a>[1.0.0] - 2018-09-09</h2><h3 id="新增"><a href="#新增" class="headerlink" title="新增"></a>新增</h3><p>我叫CreateX，我诞生于2018年9月9日，我喜欢创造无限想象力的事物，我会在在这里记录下我对技术和生活的点滴思考，欢迎访问我的github主页<a href="Create4X.github.io/">CreateX</a>。</p><h3 id="变更"><a href="#变更" class="headerlink" title="变更"></a>变更</h3><p>博客主题换为Daily，你可以在<a href="https://github.com/GallenHu/hexo-theme-Daily//" target="_blank" rel="noopener">github</a>上找到并使用该主题。</p><h2 id="1-0-1-2018-09-11"><a href="#1-0-1-2018-09-11" class="headerlink" title="[1.0.1] - 2018-09-11"></a>[1.0.1] - 2018-09-11</h2><h3 id="新增-1"><a href="#新增-1" class="headerlink" title="新增"></a>新增</h3><p>为博客加入<a href="https://disqus.com/features/engage/" target="_blank" rel="noopener">Disqus</a>评论服务。但是该服务被墙，所以在国内访问本博客无法加载Disqus的评论模块，目前正在想办法解决中。</p><h2 id="1-0-2-2018-09-12"><a href="#1-0-2-2018-09-12" class="headerlink" title="[1.0.2] - 2018-09-12"></a>[1.0.2] - 2018-09-12</h2><h3 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h3><p>更换主题为<a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="noopener">next</a>，原因是这个主题有更好的可扩展性，相关安装与配置方法请见<a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">http://theme-next.iissnan.com/</a>。</p><h3 id="新增-2"><a href="#新增-2" class="headerlink" title="新增"></a>新增</h3><p>添加标签云页面。</p><h3 id="新增-3"><a href="#新增-3" class="headerlink" title="新增"></a>新增</h3><p>添加动态背景和页面点击特效，感觉酷酷的！</p><h2 id="1-0-3-2018-09-14"><a href="#1-0-3-2018-09-14" class="headerlink" title="[1.0.3] - 2018-09-14"></a>[1.0.3] - 2018-09-14</h2><h3 id="新增-4"><a href="#新增-4" class="headerlink" title="新增"></a>新增</h3><p>添加网易云音乐外链播放器，设置个人喜欢的曲目。</p><h2 id="1-0-4-2018-09-14"><a href="#1-0-4-2018-09-14" class="headerlink" title="[1.0.4] - 2018-09-14"></a>[1.0.4] - 2018-09-14</h2><h3 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h3><p>删除页面点击出现红心的动画效果，以保持页面的干净。 </p><h2 id="1-0-5-2018-09-15"><a href="#1-0-5-2018-09-15" class="headerlink" title="[1.0.5] - 2018-09-15"></a>[1.0.5] - 2018-09-15</h2><h3 id="新增-5"><a href="#新增-5" class="headerlink" title="新增"></a>新增</h3><p>增加文章字数统计和阅读时间功能，增加底部博客总字数统计功能。</p><h3 id="新增-6"><a href="#新增-6" class="headerlink" title="新增"></a>新增</h3><p>增加页面加载动态效果。</p><h3 id="新增-7"><a href="#新增-7" class="headerlink" title="新增"></a>新增</h3><p>新增RSS与Github链接。</p><h3 id="优化-1"><a href="#优化-1" class="headerlink" title="优化"></a>优化</h3><p>调整菜单栏目录，删除菜单栏各栏目图标。</p><h3 id="删除-1"><a href="#删除-1" class="headerlink" title="删除"></a>删除</h3><p>删除页面底部hexo和next驱动的标识。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/09/09/更新记录/IMG_3867.jpg&quot;&gt;
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="技术" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="酷酷的人生从此开始" scheme="http://yoursite.com/tags/%E9%85%B7%E9%85%B7%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BB%8E%E6%AD%A4%E5%BC%80%E5%A7%8B/"/>
+    
+  </entry>
+  
+</feed>
