@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-15T19:10:25.062Z</updated>
+  <updated>2018-09-18T12:04:32.566Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>垂直领域搜索产品经理的主要工作内容</title>
+    <link href="http://yoursite.com/2018/09/18/%E6%90%9C%E7%B4%A2%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E4%B8%BB%E8%A6%81%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9/"/>
+    <id>http://yoursite.com/2018/09/18/搜索产品经理的主要工作内容/</id>
+    <published>2018-09-18T12:04:32.000Z</published>
+    <updated>2018-09-18T12:04:32.566Z</updated>
+    
+    <content type="html"><![CDATA[<p>实际上，作为一名工作在垂直领域的搜索产品经理，需要处理的日常工作和搜索功能还是挺多的。</p><a id="more"></a><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>俗话说“前人栽树，后人乘凉”，这几天在知乎和“人人都是产品经理”上看了很多与搜索相关的文章，我从中获益匪浅，之前完全不知道搜索产品经理需要干什么，现在已经能对自己的工作说个大概。</p><p>我结合自己的工作和网络上的资料，将搜索产品经理（或者说需要负责搜索功能设计的产品人）的工作分为两大类：功能开发和日常工作，但是这二者之间并不是绝对隔离的，有时这两类工作之间存在着非常紧密的联系。</p><h2 id="日常工作"><a href="#日常工作" class="headerlink" title="日常工作"></a>日常工作</h2><p>日常工作是指那些非常高频，工作频率很稳定的工作，虽然名为“日常”，但是不一定是每天都要做，可能是每周或每月进行一次。日常工作主要有以下内容：</p><ol><li>搜索效果的评测</li></ol><ul><li>搜索结果数量（评测搜索是否查全、查准）</li><li>搜索结果展示（主要与排序相关）<br>上述评测可以自己制订一套规则，然后让开发写一个自动测试的脚本，在每次对搜索功能进行修改以后，运行脚本评估效果。</li></ul><ol start="2"><li>词库维护</li></ol><ul><li>分词库的维护</li><li>停用词库的维护</li></ul><ol start="3"><li>用户行为研究</li></ol><ul><li>用户Query（查询）研究<blockquote><p>尤其是对无结果词和无效搜索词的研究</p></blockquote></li><li>用户点击数据研究<blockquote><p>例如对检索模式、时间模式、检索条件组合模式、filter使用模式的研究。</p></blockquote></li></ul><ol start="4"><li>映射关系的维护<blockquote><p>映射主要用于智能推荐和自动更正功能。</p></blockquote></li></ol><p>上述日常工作中，最重要的是对用户查询的研究。</p><h2 id="功能开发"><a href="#功能开发" class="headerlink" title="功能开发"></a>功能开发</h2><ol><li>设计搜索排序算法</li><li>suggest功能的开发</li><li>搜索历史功能的开发</li><li>热门搜索功能的开发</li><li>前端摘要显示的设计</li><li>搜索性能的提升（主要工作在开发）</li><li>前端的交互设计</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;实际上，作为一名工作在垂直领域的搜索产品经理，需要处理的日常工作和搜索功能还是挺多的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81/"/>
+    
+      <category term="搜索产品" scheme="http://yoursite.com/tags/%E6%90%9C%E7%B4%A2%E4%BA%A7%E5%93%81/"/>
+    
+      <category term="工作日志" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>初涉搜索领域，我做了哪些事</title>
