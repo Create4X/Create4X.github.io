@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>createx</title>
+  <title>icreatex</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>createx</name>
+    <name>icreatex</name>
     
   </author>
   
@@ -71,9 +71,9 @@
     <link href="http://yoursite.com/2018/09/09/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/"/>
     <id>http://yoursite.com/2018/09/09/更新记录/</id>
     <published>2018-09-09T15:27:35.000Z</published>
-    <updated>2018-09-15T19:19:12.660Z</updated>
+    <updated>2018-09-18T15:39:24.626Z</updated>
     
-    <content type="html"><![CDATA[<img src="/2018/09/09/更新记录/IMG_3867.jpg"><a id="more"></a><h2 id="1-0-0-2018-09-09"><a href="#1-0-0-2018-09-09" class="headerlink" title="[1.0.0] - 2018-09-09"></a>[1.0.0] - 2018-09-09</h2><h3 id="新增"><a href="#新增" class="headerlink" title="新增"></a>新增</h3><p>我叫CreateX，我诞生于2018年9月9日，我喜欢创造无限想象力的事物，我会在在这里记录下我对技术和生活的点滴思考，欢迎访问我的github主页<a href="Create4X.github.io/">CreateX</a>。</p><h3 id="变更"><a href="#变更" class="headerlink" title="变更"></a>变更</h3><p>博客主题换为Daily，你可以在<a href="https://github.com/GallenHu/hexo-theme-Daily//" target="_blank" rel="noopener">github</a>上找到并使用该主题。</p><h2 id="1-0-1-2018-09-11"><a href="#1-0-1-2018-09-11" class="headerlink" title="[1.0.1] - 2018-09-11"></a>[1.0.1] - 2018-09-11</h2><h3 id="新增-1"><a href="#新增-1" class="headerlink" title="新增"></a>新增</h3><p>为博客加入<a href="https://disqus.com/features/engage/" target="_blank" rel="noopener">Disqus</a>评论服务。但是该服务被墙，所以在国内访问本博客无法加载Disqus的评论模块，目前正在想办法解决中。</p><h2 id="1-0-2-2018-09-12"><a href="#1-0-2-2018-09-12" class="headerlink" title="[1.0.2] - 2018-09-12"></a>[1.0.2] - 2018-09-12</h2><h3 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h3><p>更换主题为<a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="noopener">next</a>，原因是这个主题有更好的可扩展性，相关安装与配置方法请见<a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">http://theme-next.iissnan.com/</a>。</p><h3 id="新增-2"><a href="#新增-2" class="headerlink" title="新增"></a>新增</h3><p>添加标签云页面。</p><h3 id="新增-3"><a href="#新增-3" class="headerlink" title="新增"></a>新增</h3><p>添加动态背景和页面点击特效，感觉酷酷的！</p><h2 id="1-0-3-2018-09-14"><a href="#1-0-3-2018-09-14" class="headerlink" title="[1.0.3] - 2018-09-14"></a>[1.0.3] - 2018-09-14</h2><h3 id="新增-4"><a href="#新增-4" class="headerlink" title="新增"></a>新增</h3><p>添加网易云音乐外链播放器，设置个人喜欢的曲目。</p><h2 id="1-0-4-2018-09-14"><a href="#1-0-4-2018-09-14" class="headerlink" title="[1.0.4] - 2018-09-14"></a>[1.0.4] - 2018-09-14</h2><h3 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h3><p>删除页面点击出现红心的动画效果，以保持页面的干净。 </p><h2 id="1-0-5-2018-09-15"><a href="#1-0-5-2018-09-15" class="headerlink" title="[1.0.5] - 2018-09-15"></a>[1.0.5] - 2018-09-15</h2><h3 id="新增-5"><a href="#新增-5" class="headerlink" title="新增"></a>新增</h3><p>增加文章字数统计和阅读时间功能，增加底部博客总字数统计功能。</p><h3 id="新增-6"><a href="#新增-6" class="headerlink" title="新增"></a>新增</h3><p>增加页面加载动态效果。</p><h3 id="新增-7"><a href="#新增-7" class="headerlink" title="新增"></a>新增</h3><p>新增RSS与Github链接。</p><h3 id="优化-1"><a href="#优化-1" class="headerlink" title="优化"></a>优化</h3><p>调整菜单栏目录，删除菜单栏各栏目图标。</p><h3 id="删除-1"><a href="#删除-1" class="headerlink" title="删除"></a>删除</h3><p>删除页面底部hexo和next驱动的标识。</p>]]></content>
+    <content type="html"><![CDATA[<img src="/2018/09/09/更新记录/IMG_3867.jpg"><a id="more"></a><h2 id="1-0-0-2018-09-09"><a href="#1-0-0-2018-09-09" class="headerlink" title="[1.0.0] - 2018-09-09"></a>[1.0.0] - 2018-09-09</h2><h3 id="新增"><a href="#新增" class="headerlink" title="新增"></a>新增</h3><p>我叫CreateX，我诞生于2018年9月9日，我喜欢创造无限想象力的事物，我会在在这里记录下我对技术和生活的点滴思考，欢迎访问我的github主页<a href="Create4X.github.io/">CreateX</a>。</p><h3 id="变更"><a href="#变更" class="headerlink" title="变更"></a>变更</h3><p>博客主题换为Daily，你可以在<a href="https://github.com/GallenHu/hexo-theme-Daily//" target="_blank" rel="noopener">github</a>上找到并使用该主题。</p><h2 id="1-0-1-2018-09-11"><a href="#1-0-1-2018-09-11" class="headerlink" title="[1.0.1] - 2018-09-11"></a>[1.0.1] - 2018-09-11</h2><h3 id="新增-1"><a href="#新增-1" class="headerlink" title="新增"></a>新增</h3><p>为博客加入<a href="https://disqus.com/features/engage/" target="_blank" rel="noopener">Disqus</a>评论服务。但是该服务被墙，所以在国内访问本博客无法加载Disqus的评论模块，目前正在想办法解决中。</p><h2 id="1-0-2-2018-09-12"><a href="#1-0-2-2018-09-12" class="headerlink" title="[1.0.2] - 2018-09-12"></a>[1.0.2] - 2018-09-12</h2><h3 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h3><p>更换主题为<a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="noopener">next</a>，原因是这个主题有更好的可扩展性，相关安装与配置方法请见<a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">http://theme-next.iissnan.com/</a>。</p><h3 id="新增-2"><a href="#新增-2" class="headerlink" title="新增"></a>新增</h3><p>添加标签云页面。</p><h3 id="新增-3"><a href="#新增-3" class="headerlink" title="新增"></a>新增</h3><p>添加动态背景和页面点击特效，感觉酷酷的！</p><h2 id="1-0-3-2018-09-14"><a href="#1-0-3-2018-09-14" class="headerlink" title="[1.0.3] - 2018-09-14"></a>[1.0.3] - 2018-09-14</h2><h3 id="新增-4"><a href="#新增-4" class="headerlink" title="新增"></a>新增</h3><p>添加网易云音乐外链播放器，设置个人喜欢的曲目。</p><h2 id="1-0-4-2018-09-14"><a href="#1-0-4-2018-09-14" class="headerlink" title="[1.0.4] - 2018-09-14"></a>[1.0.4] - 2018-09-14</h2><h3 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h3><p>删除页面点击出现红心的动画效果，以保持页面的干净。 </p><h2 id="1-0-5-2018-09-15"><a href="#1-0-5-2018-09-15" class="headerlink" title="[1.0.5] - 2018-09-15"></a>[1.0.5] - 2018-09-15</h2><h3 id="新增-5"><a href="#新增-5" class="headerlink" title="新增"></a>新增</h3><p>增加文章字数统计和阅读时间功能，增加底部博客总字数统计功能。</p><h3 id="新增-6"><a href="#新增-6" class="headerlink" title="新增"></a>新增</h3><p>增加页面加载动态效果。</p><h3 id="新增-7"><a href="#新增-7" class="headerlink" title="新增"></a>新增</h3><p>新增RSS与Github链接。</p><h3 id="优化-1"><a href="#优化-1" class="headerlink" title="优化"></a>优化</h3><p>调整菜单栏目录，删除菜单栏各栏目图标。</p><h3 id="删除-1"><a href="#删除-1" class="headerlink" title="删除"></a>删除</h3><p>删除页面底部hexo和next驱动的标识。</p><h2 id="1-0-6-2018-09-18"><a href="#1-0-6-2018-09-18" class="headerlink" title="[1.0.6] - 2018-09-18"></a>[1.0.6] - 2018-09-18</h2><h3 id="新增-8"><a href="#新增-8" class="headerlink" title="新增"></a>新增</h3><p>增加联系博主功能，该功能使用了<a href="dashboard.daovoice.io">DaoVoice</a>提供的免费服务。</p><h3 id="删除-2"><a href="#删除-2" class="headerlink" title="删除"></a>删除</h3><p>删除页面加载动画效果，原因是实际展示效果不佳，让我这个强迫症看了受不了。如无必要，勿增实体。</p>]]></content>
     
     <summary type="html">
     
@@ -84,9 +84,11 @@
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
-      <category term="技术" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="next" scheme="http://yoursite.com/tags/next/"/>
     
       <category term="酷酷的人生从此开始" scheme="http://yoursite.com/tags/%E9%85%B7%E9%85%B7%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BB%8E%E6%AD%A4%E5%BC%80%E5%A7%8B/"/>
+    
+      <category term="瞎折腾" scheme="http://yoursite.com/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
